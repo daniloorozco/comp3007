@@ -1,6 +1,6 @@
 -- Assignment 3
 -- COMP 3007-A, Fall 2018
--- Danilo Orozco, 101035548
+-- Danilo Orozco
 -- 2018/11/10
 
 import Data.Maybe
